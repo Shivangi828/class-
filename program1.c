@@ -7,13 +7,13 @@ scanf("%d",&c);
 
 if (a<c && a<b )
 { 
- printf("a is smaller");
+ printf("a is smaaller");
 }
 
 else if (b<c && b<a)
 {
 
- printf("b is smaller");
+ printf("b is smalleeer");
 }
 else
 {
